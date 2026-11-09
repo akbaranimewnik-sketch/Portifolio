@@ -26,3 +26,4 @@ node server.js
 
 Barcha matnlar, loyihalar va kontaktlar bitta faylda:
 - [`js/data.js`](js/data.js) — O'zbekcha, Inglizcha va Ruscha barcha matnlarni istalgan vaqt osongina tahrirlashingiz mumkin.
+# Portifolio
